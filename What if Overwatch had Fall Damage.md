@@ -1,4 +1,4 @@
-# Credits
+# Special Thanks
 
 - **[jomoodyart](https://www.instagram.com/jomoodyart/)** for drawing Pharah in the thumbnail
 - **[hbomberguy](https://www.youtube.com/c/hbomberguy)** for providing Jeff Kaplan imitation voiceover
