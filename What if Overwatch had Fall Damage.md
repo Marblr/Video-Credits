@@ -1,6 +1,7 @@
 # Credits
 
 - **[jomoodyart](https://www.instagram.com/jomoodyart/)** for drawing Pharah in the thumbnail
+- **[hbomberguy](https://www.youtube.com/c/hbomberguy)** for providing Jeff Kaplan imitation voiceover
 - **[SteamGridDB](https://www.steamgriddb.com/)** for game cover art
 
 # References
