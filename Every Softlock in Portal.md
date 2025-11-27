@@ -35,7 +35,7 @@
 - Blinx 2 — Ruins of Time
 - Super Monkey Ball 2 — Monkey Boat (Advanced Course)
 - Super Monkey Ball — Master
-- lol smith — Kemkrafft
+- lol smith — Kernkrafft
 - Blinx The Time Sweeper — Forge of Hours
 - Super Monkey Ball 2 — Monkey Race 2 (Expert Track)
 - Blinx The Time Sweeper — Shop
